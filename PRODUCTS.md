@@ -13,3 +13,5 @@ A directory of browser-based AI creation tools from Voor AI.
 - [HappyShrimp](https://happyshrimp.online/) — creative AI workflows
 - [Watermarks Remover](https://watermarksremover.co/) — image watermark removal
 - [Wan3 AI](https://wan3ai.im/) — AI video generation
+
+- [Ideogram 4.5](https://ideogram45.com/) — AI image generation
