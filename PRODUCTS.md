@@ -1,4 +1,5 @@
 # Voor AI Products
+- [Ideogram 4.5](https://ideogram45.com/) — AI image generation
 
 A directory of browser-based AI creation tools from Voor AI.
 
