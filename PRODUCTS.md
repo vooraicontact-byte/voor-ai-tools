@@ -15,3 +15,4 @@ A directory of browser-based AI creation tools from Voor AI.
 - [Wan3 AI](https://wan3ai.im/) — AI video generation
 
 - [Ideogram 4.5](https://ideogram45.com/) — AI image generation
+- [Ideogram 4.5](https://ideogram45.com/) — AI image generation
