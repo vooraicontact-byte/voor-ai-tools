@@ -27,4 +27,5 @@ A directory of browser-based AI creation tools from Voor AI.
                 - - [Watermarks Remover](https://watermarksremover.co/) — image watermark removal
                   - - [Wan3 AI](https://wan3ai.im/) — AI video generation
                     - - [Ideogram 4.5](https://ideogram45.com/) — AI image generation
-                      - - [Ideogram 4.5](https://ideogram45.com/) — AI image generation
+                      - - [Ideogram 4.5](https://ideogram45.com/) — AI image generatio
+                        - - [ideogram api](https://ideoimg.pro/) — AI image API
